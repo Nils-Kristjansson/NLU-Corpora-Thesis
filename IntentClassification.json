@@ -1,0 +1,13 @@
+{
+  "name": "Intent Classification",
+  "desc": "Training set containing intents and testing set containing similar but not identical phrases",
+  "lang": "en",
+  "sentences": [
+    {
+      "text": "i want to go marienplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    }
+  ]
+}

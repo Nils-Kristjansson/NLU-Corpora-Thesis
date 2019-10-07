@@ -1,0 +1,727 @@
+{
+  "name": "Intent Classification Generalisation 10",
+  "desc": "",
+  "lang": "en",
+  "sentences": [
+    {
+      "text": "Alternative to Facebook",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "i want to go marienplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "What software can I use to view epub documents?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Are there any good Pandora alternatives with general availability outside the US?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "from olympia einkaufszentrum to hauptbahnhof",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Which PDF Viewer would you recommend?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Is there an online alternative to iGoogle",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "when is the next train from winterstraße 12 to kieferngarten",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "What IDEs are available for Ubuntu?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Any alternatives to Google Apps for your domain?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "when is the next rocket from winterstraße 12 to kieferngarte",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "What's the best Mind Mapping Software?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Evernote alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "can you find a connection from garching to hauptbahnhof?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Software to read a QR code?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Alternatives to LibraryThing",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "how to get from untere strassäcker 21 to fröttmaning",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "PDF to word conversion software?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "What are the alternatives to Facebook/Meetup for Event Planning",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "how i can get from marienplatz to garching",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Is there software that can view .dwg files?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Is there a free and privacy-aware alternative to Google?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "connection from boltzmannstraße to kieferngarten",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "What are some good PHP editors?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "What alternatives to Google Product Search exist?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "how to get from bonner platz to freimann?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Is there a software utility to adjust screen gamma/brightness/contrast?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Photo Sharing Site (alternative to flickr) supporting OpenID sign in?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "how do i get from oez to hbf?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Please recommend a hex editor for shell",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Any good alternative to Google Alerts?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how to get from winterstrasse 12 to fröttmaning",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there LAN topology mapping software available in Ubuntu?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there a HTML alternative to Prezi?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how do i get from garching forschungszentrum to pasing",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there a tool like wifi analyzer for ubuntu?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Any alternatives to Google Streetview?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "theresienstraße to assling",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Tool for recovering deleted data from a flash drive",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Zencoder alternatives?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get from theresienstraße to munich east?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "What's a simple \"colour picker\" app for GNOME?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternatives to discontinued Google Calendar Appointment Slots",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "from quiddestraße to garching?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Any app that tells me to take regular breaks from working?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Q&A Platform similar to Stack Exchange model?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "can you find a connection from kurt-eisner-straße to garching forschungszentrum?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "What are some good ASCII art generators?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternatives for Google Reader (with Android synchronizing)",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "can you find a connection from quiddestraße to garching forschungszentrum?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "What are some good GUI binary viewers/editors?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Bugmenot (registration bypasser) alternative that doesn't suck?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "from hauptbahnhof to garching?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Which is the best PDF metadata viewer for Ubuntu?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternatives to Twitter",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get to glockenbachviertel from garching forschungszentrum?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Google search engine alternatives",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how i can get from garching to nordfriedhof",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Which application do you recommend for watching TV (DVB)?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternatives to Google Groups with more features?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get to glockenbachviertel from garching forschungszentrum?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "What Is The Best HDR Software?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Are there any good Veoh or Youtube alternatives?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get from moosach to quiddestraße?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "What do you use to edit Microsoft Word documents (docx)?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Mint alternatives for Canada",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get from moosach to poccistraße?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "What's the best Wireframing tool?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "OSX alternatives for macbook",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get from kurt-eisner-straße to garching forschungszentrum?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there any software that will do face recognition in photos?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Free Photoshop alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get from moosach to quiddestraße?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Applications to replace iTunes for iPod synchronization?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Better virus scanner then Windows Defender",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get from moosach to odeonsplatz?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there an SSH connection manager?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "MS Office alternatives",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "what's the shortest way from quiddestraße to odeonsplatz?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "A light alternative to gnome-system-monitor?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Top 10 Outlook alternatives",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how i can get from garching to neuperlach sued",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Software to create a video slideshow?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Outlook alternative for Linux",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how i can get from marienplatz to garching?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there a project management software for Ubuntu like Microsoft Project?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "MS Paint alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how do i get from poccistraße to laim",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there any recovery software available for ext4?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Lastpass alternative selfosted",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "i want to go garching from marienplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "What blog editor software are available?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "IE alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how i can get from marienplatz to garching?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Can you recommend a good modern GUI download manager (wget wrapper?)",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Selfhosted Slack alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "how can i get from hauptbahnhof to odeonsplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is there any program for fuzzy string matching which provides a match score?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Any free spotify alternatives out there?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "prinzregentenplatz to rotkreuzplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Are there any hardware diagnostic tools?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternative image viewer for colorblind people",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "i want to go to garching from marienplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Recommendation for Regex editor?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Android alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "from prinzregentenplatz to rotkreuzplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Is it recommended to upgrade to Lubuntu 15.04?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "IPhone alternative to IOS",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "from garching to klinikum",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "On really old Ubuntu 6.06 - How to upgrade",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Search engine alternative that dosent steal my data like Google",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "from garching foschungszentrum to odeonsplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wubi Device /dev/loop0 full. How to get more space?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Prettier looking alternative to thunderbird?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "from garching to marienplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Removing Recently used items in 12.04",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternative to kindle with android",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "connection from garching to hauptbahnhof?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "In Unity how do I see the details of a given launcher?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    }
+  ]
+}

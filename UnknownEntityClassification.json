@@ -1,0 +1,3127 @@
+{
+  "name": "Unknown Entity Classification",
+  "desc": "Training set containing entities and test set containing entities belonging to classes from the training set but not occurring in it",
+  "lang": "en",
+  "sentences": [
+    {
+      "text": "Who is Wal-Mart Stores",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Wal-Mart Stores"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Exxon Mobil",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Exxon Mobil"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Chevron",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Chevron"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Phillips 66",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Phillips 66"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Berkshire Hathaway",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Berkshire Hathaway"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Apple",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Apple"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is General Motors",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "General Motors"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is General Electric",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "General Electric"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Valero Energy",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Valero Energy"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Ford Motor",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Ford Motor"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is AT&T",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "AT&T"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Fannie Mae",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Fannie Mae"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is CVS Caremark",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "CVS Caremark"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is McKesson",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "McKesson"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Hewlett-Packard",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Hewlett-Packard"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Verizon Communications",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Verizon Communications"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is UnitedHealth Group",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "UnitedHealth Group"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is J.P. Morgan Chase & Co.",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 6,
+          "text": "J.P. Morgan Chase & Co."
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Cardinal Health",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Cardinal Health"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is International Business Machines",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "International Business Machines"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Bank of America Corp.",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 5,
+          "text": "Bank of America Corp."
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Costco Wholesale",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Costco Wholesale"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Kroger",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Kroger"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Express Scripts Holding",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "Express Scripts Holding"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Wells Fargo",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Wells Fargo"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Citigroup",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Citigroup"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Archer Daniels Midland",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "Archer Daniels Midland"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Procter & Gamble",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "Procter & Gamble"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Prudential Financial",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Prudential Financial"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Boeing",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Boeing"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Freddie Mac",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Freddie Mac"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is AmerisourceBergen",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "AmerisourceBergen"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Marathon Petroleum",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Marathon Petroleum"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Home Depot",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Home Depot"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Microsoft",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Microsoft"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Target",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Target"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Walgreen",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Walgreen"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is American International Group",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "American International Group"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is INTL FCStone",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "INTL FCStone"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is MetLife",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "MetLife"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Who is Johnson & Johnson",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "Johnson & Johnson"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Caterpillar",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Caterpillar"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is PepsiCo",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "PepsiCo"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is State Farm Insurance Cos.",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 5,
+          "text": "State Farm Insurance Cos."
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is ConocoPhillips",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "ConocoPhillips"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Comcast",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Comcast"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is WellPoint",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "WellPoint"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Pfizer",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Pfizer"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Amazon.com",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Amazon.com"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is United Technologies",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "United Technologies"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Dell",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Dell"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Dow Chemical",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Dow Chemical"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is United Parcel Service",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "United Parcel Service"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Intel",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Intel"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Google",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Google"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Lowe's",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Lowe's"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Coca-Cola",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Coca-Cola"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Merck",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Merck"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Lockheed Martin",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Lockheed Martin"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Cisco Systems",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Cisco Systems"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Best Buy",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Best Buy"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Safeway",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Safeway"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is FedEx",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "FedEx"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Enterprise Products Partners",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "Enterprise Products Partners"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Sysco",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Sysco"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Walt Disney",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Walt Disney"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Johnson Controls",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Johnson Controls"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Goldman Sachs Group",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "Goldman Sachs Group"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is CHS",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "CHS"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Abbott Laboratories",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Abbott Laboratories"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Sears Holdings",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Sears Holdings"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is DuPont",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "DuPont"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Humana",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Humana"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is World Fuel Services",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "World Fuel Services"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Hess",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Hess"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Ingram Micro",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Ingram Micro"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Plains All American Pipeline",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 5,
+          "text": "Plains All American Pipeline"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Honeywell International",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 3,
+          "text": "Honeywell International"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is United Continental Holdings",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 4,
+          "text": "United Continental Holdings"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Who is Oracle",
+      "intent": "FindCompany",
+      "entities": [
+        {
+          "entity": "Company",
+          "start": 2,
+          "stop": 2,
+          "text": "Oracle"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Aidenbachstrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Aidenbachstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Alte Heide",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Alte Heide"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Am Hart",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Am Hart"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Arabellapark",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Arabellapark"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Basler Strasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Basler Strasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Bonner Platz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Bonner Platz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Brudermuehlstrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Brudermuehlstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Boehmerwaldplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Boehmerwaldplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Candidplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Candidplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Dietlindenstrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Dietlindenstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Duelferstrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Duelferstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Feldmoching",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Feldmoching"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Forstenrieder Allee",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Forstenrieder Allee"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Frankfurter Ring",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Frankfurter Ring"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Fraunhoferstrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Fraunhoferstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Freimann",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Freimann"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Friedenheimer Strasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Friedenheimer Strasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Froettmaning",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Froettmaning"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Fuerstenried West",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Fuerstenried West"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Garching",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Garching"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Garching-Forschungszentrum",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Garching-Forschungszentrum"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Garching-Hochbrueck",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Garching-Hochbrueck"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Georg-Brauchle-Ring",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Georg-Brauchle-Ring"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Gern",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Gern"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Giesing",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Giesing"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Giselastrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Giselastrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Goetheplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Goetheplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Grosshadern",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Grosshadern"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Haderner Stern",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Haderner Stern"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Harras",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Harras"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Harthof",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Harthof"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Hasenbergl",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Hasenbergl"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Hauptbahnhof",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Hauptbahnhof"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Heimeranplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Heimeranplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Hohenzollernplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Hohenzollernplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Holzapfelkreuth",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Holzapfelkreuth"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Implerstrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Implerstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Innsbrucker Ring",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Innsbrucker Ring"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Josephsburg",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Josephsburg"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Josephsplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Josephsplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "Where is Karl-Preis-Platz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Karl-Preis-Platz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Karlsplatz (Stachus)",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Karlsplatz (Stachus)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Kieferngarten",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Kieferngarten"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Klinikum Grosshadern",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Klinikum Grosshadern"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Kolumbusplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Kolumbusplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Kreillerstrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Kreillerstrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Koenigsplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Koenigsplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Laimer Platz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Laimer Platz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Lehel",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Lehel"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Machtlfinger Strasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Machtlfinger Strasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Maillingerstrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Maillingerstrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Mangfallplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Mangfallplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Marienplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Marienplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Max-Weber-Platz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Max-Weber-Platz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Messestadt-Ost",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Messestadt-Ost"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Messestadt-West",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Messestadt-West"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Michaelibad",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Michaelibad"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Milbertshofen",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Milbertshofen"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Moosach",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Moosach"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Moosacher St.-Martins-Platz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Moosacher St.-Martins-Platz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Moosfeld",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Moosfeld"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Muenchner Freiheit",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Muenchner Freiheit"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Neuperlach Sued",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Neuperlach Sued"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Neuperlach Zentrum",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 3,
+          "text": "Neuperlach Zentrum"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Nordfriedhof",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Nordfriedhof"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Obersendling",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Obersendling"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Oberwiesenfeld",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Oberwiesenfeld"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Odeonsplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Odeonsplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Olympia-Einkaufszentrum",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Olympia-Einkaufszentrum"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Olympiazentrum",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Olympiazentrum"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Ostbahnhof",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Ostbahnhof"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Partnachplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Partnachplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Petuelring",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Petuelring"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Poccistrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Poccistrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Prinzregentenplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Prinzregentenplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Quiddestrasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Quiddestrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Richard-Strauss-Strasse",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Richard-Strauss-Strasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Rotkreuzplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Rotkreuzplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Scheidplatz",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Scheidplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "Where is Schwanthalerhoehe",
+      "intent": "FindLocation",
+      "entities": [
+        {
+          "entity": "Location",
+          "start": 2,
+          "stop": 2,
+          "text": "Schwanthalerhoehe"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is AntiVir - Avira Free Antivirus",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "AntiVir - Avira Free Antivirus"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Firefox (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Firefox (32 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Free YouTube to MP3 Converter",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "Free YouTube to MP3 Converter"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is CCleaner",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "CCleaner"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is VLC media player (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "VLC media player (32 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Adobe Flash Player",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Adobe Flash Player"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Adobe Acrobat Reader DC",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 5,
+          "text": "Adobe Acrobat Reader DC"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is WinRAR (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "WinRAR (32 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is OpenOffice",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "OpenOffice"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Skype",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Skype"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Windows Live Messenger 2012 Final",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "Windows Live Messenger 2012 Final"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is PDFCreator",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "PDFCreator"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is avast Free Antivirus 2019",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 5,
+          "text": "avast Free Antivirus 2019"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is AVG AntiVirus Free 2019 (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 7,
+          "text": "AVG AntiVirus Free 2019 (32 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is CDBurnerXP",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "CDBurnerXP"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is GIMP",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "GIMP"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is DirectX",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "DirectX"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is WinRAR (64 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "WinRAR (64 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is DivX Pro",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "DivX Pro"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is SpyBot - Search & Destroy",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "SpyBot - Search & Destroy"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Daemon Tools Lite",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Daemon Tools Lite"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Free YouTube Download",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Free YouTube Download"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Google Chrome (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 5,
+          "text": "Google Chrome (32 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is ICQ",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "ICQ"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is 7-Zip (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "7-Zip (32 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Windows Movie Maker 2012",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 5,
+          "text": "Windows Movie Maker 2012"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is VLC media player (64 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "VLC media player (64 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Windows Media Player",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Windows Media Player"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is WhatsApp Plus - Android App",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "WhatsApp Plus - Android App"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is AdwCleaner",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "AdwCleaner"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is iTunes (64 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "iTunes (64 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is iTunes (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "iTunes (32 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Winamp Full",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "Winamp Full"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is eMule",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "eMule"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is IrfanView (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "IrfanView (32 Bit)"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Google Earth",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "Google Earth"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is JDownloader",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "JDownloader"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Nero 2018 Standard",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Nero 2018 Standard"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is TubeMate YouTube Downloader - Android App",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 7,
+          "text": "TubeMate YouTube Downloader - Android App"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is LogMeIn Hamachi",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "LogMeIn Hamachi"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "What is Realtimes mit RealPlayer",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Realtimes mit RealPlayer"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is µTorrent (uTorrent)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "µTorrent (uTorrent)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is TeamSpeak 3 (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 5,
+          "text": "TeamSpeak 3 (32 Bit)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Windows XP - Service Pack 3",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 7,
+          "text": "Windows XP - Service Pack 3"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is LimeWire",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "LimeWire"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Thunderbird",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Thunderbird"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is TeamViewer",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "TeamViewer"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is TuneUp Utilities 2014",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "TuneUp Utilities 2014"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is SUPER",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "SUPER"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Java Runtime Environment (64 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "Java Runtime Environment (64 Bit)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Internet Explorer für XP",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 5,
+          "text": "Internet Explorer für XP"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is ZoneAlarm Free Antivirus + Firewall 2019",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 7,
+          "text": "ZoneAlarm Free Antivirus + Firewall 2019"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Ad-Aware Free Antivirus",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Ad-Aware Free Antivirus"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Opera (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Opera (32 Bit)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Java Runtime Environment (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 6,
+          "text": "Java Runtime Environment (32 Bit)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Adobe Flash Player für Android 4.0 bis 4.3 - Android App",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 12,
+          "text": "Adobe Flash Player für Android 4.0 bis 4.3 - Android App"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Paint.NET",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Paint.NET"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Everest Home Edition",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Everest Home Edition"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Audacity",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Audacity"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Windows XP - Service Pack 2",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 7,
+          "text": "Windows XP - Service Pack 2"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Azureus",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Azureus"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is PDF24 Creator",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "PDF24 Creator"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Apple QuickTime",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "Apple QuickTime"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Google Chrome (64 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 5,
+          "text": "Google Chrome (64 Bit)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Firefox (64 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "Firefox (64 Bit)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is BearShare",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "BearShare"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Malwarebytes - Malware Scanner",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 5,
+          "text": "Malwarebytes - Malware Scanner"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Picasa",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Picasa"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Recuva",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Recuva"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is CDex",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "CDex"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is XPAntiSpy",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "XPAntiSpy"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Samsung Kies",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "Samsung Kies"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is 7-Zip (64 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "7-Zip (64 Bit)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Photoscape",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Photoscape"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Steam",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Steam"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is FileZilla",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "FileZilla"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is mp3DirectCut",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "mp3DirectCut"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is BearShare Lite",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 3,
+          "text": "BearShare Lite"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is WinZip (32 Bit)",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 4,
+          "text": "WinZip (32 Bit)"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "What is Notepad++",
+      "intent": "FindSoftware",
+      "entities": [
+        {
+          "entity": "Software",
+          "start": 2,
+          "stop": 2,
+          "text": "Notepad++"
+        }
+      ],
+      "training": false
+    }
+  ]
+}

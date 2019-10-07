@@ -1,0 +1,1528 @@
+{
+  "name": "Identical Entity Classification",
+  "desc": "Trains and tests on sets with two entities with identical values to determine performance of correct classification. The main expectation here is that some services might provide plenty false positives here",
+  "lang": "en",
+
+  "sentences": [
+    {
+      "text": "How do i get from Aidenbachstrasse to Josephsplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Aidenbachstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Josephsplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Alte Heide to Josephsburg",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Alte Heide"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Josephsburg"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Am Hart to Innsbrucker Ring",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Am Hart"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 9,
+          "text": "Innsbrucker Ring"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Arabellapark to Implerstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Arabellapark"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Implerstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Basler Strasse to Holzapfelkreuth",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Basler Strasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Holzapfelkreuth"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Bonner Platz to Hohenzollernplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Bonner Platz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Hohenzollernplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Brudermuehlstrasse to Heimeranplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Brudermuehlstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Heimeranplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Boehmerwaldplatz to Hauptbahnhof",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Boehmerwaldplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Hauptbahnhof"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Candidplatz to Hasenbergl",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Candidplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Hasenbergl"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Dietlindenstrasse to Harthof",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Dietlindenstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Harthof"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Duelferstrasse to Harras",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Duelferstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Harras"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Feldmoching to Haderner Stern",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Feldmoching"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Haderner Stern"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Forstenrieder Allee to Grosshadern",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Forstenrieder Allee"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Grosshadern"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Frankfurter Ring to Goetheplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Frankfurter Ring"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Goetheplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Fraunhoferstrasse to Giselastrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Fraunhoferstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Giselastrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Freimann to Giesing",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Freimann"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Giesing"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Friedenheimer Strasse to Gern",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Friedenheimer Strasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Gern"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Froettmaning to Georg-Brauchle-Ring",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Froettmaning"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Georg-Brauchle-Ring"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Fuerstenried West to Garching-Hochbrueck",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Fuerstenried West"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Garching-Hochbrueck"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Garching to Garching-Forschungszentrum",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Garching"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Garching-Forschungszentrum"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Garching-Forschungszentrum to Garching",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Garching-Forschungszentrum"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Garching"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Garching-Hochbrueck to Fuerstenried West",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Garching-Hochbrueck"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Fuerstenried West"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Georg-Brauchle-Ring to Froettmaning",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Georg-Brauchle-Ring"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Froettmaning"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Gern to Friedenheimer Strasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Gern"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Friedenheimer Strasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Giesing to Freimann",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Giesing"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Freimann"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Giselastrasse to Fraunhoferstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Giselastrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Fraunhoferstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Goetheplatz to Frankfurter Ring",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Goetheplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Frankfurter Ring"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Grosshadern to Forstenrieder Allee",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Grosshadern"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Forstenrieder Allee"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Haderner Stern to Feldmoching",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Haderner Stern"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Feldmoching"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Harras to Duelferstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Harras"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Duelferstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Harthof to Dietlindenstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Harthof"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Dietlindenstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Hasenbergl to Candidplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Hasenbergl"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Candidplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Hauptbahnhof to Boehmerwaldplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Hauptbahnhof"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Boehmerwaldplatz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Heimeranplatz to Brudermuehlstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Heimeranplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Brudermuehlstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Hohenzollernplatz to Bonner Platz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Hohenzollernplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Bonner Platz"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Holzapfelkreuth to Basler Strasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Holzapfelkreuth"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Basler Strasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Implerstrasse to Arabellapark",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Implerstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Arabellapark"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Innsbrucker Ring to Am Hart",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Innsbrucker Ring"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 9,
+          "text": "Am Hart"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Josephsburg to Alte Heide",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Josephsburg"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Alte Heide"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Josephsplatz to Aidenbachstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Josephsplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Aidenbachstrasse"
+        }
+      ],
+      "training": true
+    },
+    {
+      "text": "How do i get from Freimann to Basler Strasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Freimann"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Basler Strasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Aidenbachstrasse to Duelferstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Aidenbachstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Duelferstrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Gern to Giselastrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Gern"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Giselastrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Holzapfelkreuth to Fuerstenried West",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Holzapfelkreuth"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Fuerstenried West"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Josephsburg to Innsbrucker Ring",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Josephsburg"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Innsbrucker Ring"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Friedenheimer Strasse to Bonner Platz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Friedenheimer Strasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 9,
+          "text": "Bonner Platz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Harras to Hauptbahnhof",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Harras"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Hauptbahnhof"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Froettmaning to Garching",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Froettmaning"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Garching"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Arabellapark to Harthof",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Arabellapark"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Harthof"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Am Hart to Forstenrieder Allee",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Am Hart"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 9,
+          "text": "Forstenrieder Allee"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Grosshadern to Dietlindenstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Grosshadern"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Dietlindenstrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Garching-Hochbrueck to Brudermuehlstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Garching-Hochbrueck"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Brudermuehlstrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Garching-Forschungszentrum to Alte Heide",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Garching-Forschungszentrum"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Alte Heide"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Haderner Stern to Hohenzollernplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Haderner Stern"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Hohenzollernplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Fraunhoferstrasse to Heimeranplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Fraunhoferstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Heimeranplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Giesing to Frankfurter Ring",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Giesing"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Frankfurter Ring"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Boehmerwaldplatz to Goetheplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Boehmerwaldplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Goetheplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Candidplatz to Georg-Brauchle-Ring",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Candidplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Georg-Brauchle-Ring"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Feldmoching to Hasenbergl",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Feldmoching"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Hasenbergl"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Implerstrasse to Josephsplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Implerstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Josephsplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Josephsplatz to Implerstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Josephsplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Implerstrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Hasenbergl to Feldmoching",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Hasenbergl"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Feldmoching"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Georg-Brauchle-Ring to Candidplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Georg-Brauchle-Ring"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Candidplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Goetheplatz to Boehmerwaldplatz",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Goetheplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Boehmerwaldplatz"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Frankfurter Ring to Giesing",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Frankfurter Ring"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Giesing"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Heimeranplatz to Fraunhoferstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Heimeranplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Fraunhoferstrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Hohenzollernplatz to Haderner Stern",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Hohenzollernplatz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 8,
+          "text": "Haderner Stern"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Alte Heide to Garching-Forschungszentrum",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Alte Heide"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Garching-Forschungszentrum"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Brudermuehlstrasse to Garching-Hochbrueck",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Brudermuehlstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Garching-Hochbrueck"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Dietlindenstrasse to Grosshadern",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Dietlindenstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Grosshadern"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Forstenrieder Allee to Am Hart",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Forstenrieder Allee"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 9,
+          "text": "Am Hart"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Harthof to Arabellapark",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Harthof"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Arabellapark"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Garching to Froettmaning",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Garching"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Froettmaning"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Hauptbahnhof to Harras",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Hauptbahnhof"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Harras"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Bonner Platz to Friedenheimer Strasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Bonner Platz"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 9,
+          "text": "Friedenheimer Strasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Innsbrucker Ring to Josephsburg",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Innsbrucker Ring"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Josephsburg"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Fuerstenried West to Holzapfelkreuth",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Fuerstenried West"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Holzapfelkreuth"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Giselastrasse to Gern",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Giselastrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Gern"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Duelferstrasse to Aidenbachstrasse",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 5,
+          "text": "Duelferstrasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 7,
+          "stop": 7,
+          "text": "Aidenbachstrasse"
+        }
+      ],
+      "training": false
+    },
+    {
+      "text": "How do i get from Basler Strasse to Freimann",
+      "intent": "FindConnection",
+      "entities": [
+        {
+          "entity": "LocationStart",
+          "start": 5,
+          "stop": 6,
+          "text": "Basler Strasse"
+        },
+        {
+          "entity": "LocationDest",
+          "start": 8,
+          "stop": 8,
+          "text": "Freimann"
+        }
+      ],
+      "training": false
+    }
+  ]
+}
