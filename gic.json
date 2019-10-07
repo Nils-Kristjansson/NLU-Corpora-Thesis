@@ -1,0 +1,967 @@
+{
+  "name": "German intent classification",
+  "desc": "",
+  "lang": "de",
+  "sentences": [
+    {
+      "text": "Alternative zu Facebook",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "ich will zum marienplatz gehen",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Welche Software kann ich epub-Dateien anzeigen?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Ich möchte ein neues Konto bei euch haben",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Gibt es gute Alternativen Pandora mit der allgemeinen Verfügbarkeit außerhalb der USA?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "von Olympia Einkaufszentrum nach zum Hauptbahnhof",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Welche PDF Viewer würden Sie empfehlen?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Neues Konto erstellen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Gibt es eine Online-Alternative zu iGoogle",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "wan kommt der nächste Zug von Winterstraße 12 nach Kieferngarten",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Welche IDEs sind für Ubuntu verfügbar?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Hallo, Ich möchte ein Tagesgeld konto bei euch eröffnen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Alternativen zu Google Apps für Ihre Domain?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Wann ist die nächste Rakete von Winterstraße 12 nach kieferngarte",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Was ist die beste Mind Mapping-Software?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Wie kann ich bei euch ein Girokonto eröffnen?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Evernote Alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "können Sie eine Verbindung von garching nach hauptbahnhof finden?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Software die einen QR-Code lesen kann?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Was brauch ich für ein Konto",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Alternativen zu Library",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "wie komm ich von der Unteren Strassacker 21 nach Fröttmaning",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "PDF in Word-Konvertierungs-Software?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Ich will ein Sparbuch bei euch eröffnen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Was sind die Alternativen zu Facebook / Meetup für Eventplanung",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "wie kann ich von marienplatz zu garching kommen",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Gibt es Software, die .dwg Dateien anzeigen  kann?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Kann ich ein Konto bei euch eröffnen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Gibt es eine kostenlose und Privatsphäre bewusste Alternative zu Google?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Verbindung von Boltzmannstraße nach Kieferngarten",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Was sind einige gute PHP-Editoren?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Können sie mir helfen, ich will ein Konto bei euch eröffenen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Welche Alternativen zu Google Produktsuche existieren?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "wie komme ich von Bonner Platz zu Freimann?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Gibt es eine Software-Utility die Bildschirm gamma / Helligkeit / Kontrast einstellen kann?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Wie kann ich ein Bankkonto bei euch erstellen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Foto-Sharing-Site (alternativ zu flickr) unterstützt OpenID anmelden?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Wie komme ich von oez zu hbf?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Bitte einen Hex-Editor für Shell empfehlen",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Was muss ich tun um ein Konto anzulegen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": true
+    },
+    {
+      "text": "Jede gute Alternative zu Google Alerts?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "wie kommt man von Winterstraße 12 nach Fröttmaning",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es LAN-Topologie-Mapping-Software in Ubuntu?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie kann ich ein Girokonto eröffnen?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es eine HTML-Alternative zu Prezi?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie komme ich von garching forschungszentrum nach pasing",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es ein Tool wie WiFi Analyzer für ubuntu?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich brauche Hilfe beim Konto wechsel",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternativen zu Google Streetview?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "theresienstraße nach assling",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Werkzeug für gelöschte Daten von einem Flash-Laufwerk wiederherstellt",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Können sie mir sagen wie ich bei euch mein Geld spaaren kann?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Zencoder Alternativen?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie komme ich von Theresien Osten nach München?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was ist eine einfache „Farbauswahl“ app für GNOME?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich will ein Konto für meinen Sohn bei euch eröffnen.",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternativen zur eingestellten Google Kalender Termin Slots",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "von Quiddestraße zu garching?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Eine App, die mich erinnert regelmäßige Pausen von der Arbeit zu nehmen?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich will ein Konto für meine Tochter eröffnen.",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Q & A-Plattform ähnlich Exchange-Modell Stack?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "können Sie eine Verbindung von kurt-Eisner-Straße nach U-Bahnhof Garching-Forschungszentrum finden?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was sind einige gute ASCII Art Generatoren?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Neues Girokonto erstellen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternativen zu Google Reader (mit Android Synchronisieren)",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "können Sie eine Verbindung von Quiddestraße zu U-Bahnhof Garching-Forschungszentrum finden?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was sind einige gute GUI binäre Leser/Editoren?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Sparbuch anlegen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Bugmenot (Registrierung bypasser) Alternative, die nicht saugen?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "von hauptbahnhof nach garching?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Welches ist der beste PDF Metadaten Viewer für Ubuntu?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich will ein Tagesgeldkonto",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternativen zu Twitter",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "wie kann ich von U-Bahnhof Garching-Forschungszentrum zu Glockenbach kommen?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es einen Linux-Dateimanager mit einer richtigen Drop-down-Baumansicht? (Wie in finder OS X)",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich will bei euch mein erstes Konto haben.",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Google-Suchmaschine Alternativen",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "wie kann ich von garching kommen zu Nordfriedhof kommen",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Welche Anwendung empfehlen Sie für das Fernsehen (DVB)?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Können sie mir helfen ein Girokonto zu erstellen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternativen zu Google Groups mit mehr Funktionen?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "wie kann ich von U-Bahnhof Garching-Forschungszentrum zu Glockenbach kommen?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was ist die beste HDR-Software?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Können sie mir helfen ein Sparbuch einzurichten",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es gute Veoh oder Youtube Alternativen?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie kann ich von Moosach nach Quiddestraße kommen?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was nutzt ihr um Microsoft Word-Dokumente (DOCX) bearbeiten?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich brauche Hilfe ein Konto einzurichten",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Mint Alternativen für Kanada",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie kann ich von Moosach nach Poccistraße kommen?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was ist das beste Wireframing-Tool?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Konto eröffnen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "OSX Alternativen für macbook",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie komme ich von kurt-Eisner-Straße zu U-Bahnhof Garching-Forschungszentrum?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es eine Software, die in Fotos Gesichtserkennung macht?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich will ein Spaarbuch",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Kostenlose Photoshop Alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie kann ich von Moosach zu Quiddestraße kommen?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Anwendungen die  iTunes für iPod Synchronisation ersetzen?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Girokonto machen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Bessere Virenscanner als Windows Defender",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie komme ich von Moosach zu Odeonsplatz?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es einen SSH Verbindungs Manager?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Hallo, ich brauch Hilfe beim Konto erstellen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "MS-Office-Alternativen",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was ist der kürzeste Weg von Quiddestraße zuOdeonsplatz?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Eine leichte Alternative zu gnome-system-Monitor?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Können sie mir helfen ein Konto zu erstellen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Top 10 Outlook Alternativen",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "wie kann ich von garching nach Neuperlach Sued kommen",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Software eine Video-Diashow zu erstellen?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich möchte einen bank account bei euch haben",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Outlook Alternative für Linux",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie kann ich von marienplatz nach garching kommen?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es ein Projekt-Management-Software für Ubuntu wie Microsoft Project?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Kannst du mir bei der erstellung eines kontos helfen?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "MS Farbe Alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie komme ich von Poccistraße nach Laim kommen",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es eine Recovery-Software für ext4?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Hilfst du mir ein konto zu erstellen?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Lastpass alternative selfosted",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich möchte nah garching von marienplatz gehen",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Welche Blog Editor Software stehen zur Verfügung?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Kontoerstellung hilfe",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "IE Alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie kann ich von marienplatz zu garching kommen?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Können Sie einen guten, modernen GUI-Download-Manager empfehlen (wget Wrapper?)",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Hilfe bei Konto Erstellung",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Selfhosted Slack Alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie komme ich von hauptbahnhof nach Odeonsplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es ein Programm für die Fuzzy-String-Matching, das eienn Match-Score liefert?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Hilfe bei Girokonto Erstellung",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Jegliche freie Spotify Alternativen gibt?",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Prinzregentenplatz zu Rotkreuz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Gibt es irgendwelche Hardware-Diagnose-Tools?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was benötige ich um ein konto zu erstellen?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Alternative Bildbetrachter für farbenblinde Menschen",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ich möchte nach garching von marienplatz gehen",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Empfehlung für die Regex-Editor?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Mein Sohn hat gesagt ich kann hir ein Konto erstellen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Android Alternative",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "von Prinzregentenplatz zu Rotkreuz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Ist das Lubuntu 15.04 Upgrade zu empfehlen?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Können Sie mich bei der Kontoerstellung beraten?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "IPhone Alternative zu IOS",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "von garching zu KLINIKUM",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wirklich altes Ubuntu 6.06 - Wie Upgrade ich das",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Was sind die Voraussetzungen um bei Ihnen ein Konto anzulegen",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Suchmaschinen-Alternative, die meine Daten wie Google dosent stehlen",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "von garching foschungszentrum zu Odeonsplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wubi Device / dev / loop0 voll. Wie bekomme ich mehr Platz?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie viel geld brauche ich um ein Konto zu eröffnen?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Schönere Anternative zu Thuderbird",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "von garching zu marienplatz",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Entfernen Zuletzt verwendete Elemente in 12.04",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Kann ich online ein Konto eröffnen?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Kindle Alternative mit Android",
+      "intent": "FindAlternative",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Verbindung von garching zu Hauptbahnhof?",
+      "intent": "FindConnection",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "In der Unity wie sehe ich die Details eines bestimmten Launcher?",
+      "intent": "SoftwareRecommendation",
+      "entities": [],
+      "training": false
+    },
+    {
+      "text": "Wie kann ich online ein Konto eröffnen?",
+      "intent": "OpenAccount",
+      "entities": [],
+      "training": false
+    }
+  ]
+}
